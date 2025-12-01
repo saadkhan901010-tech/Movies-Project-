@@ -38,7 +38,7 @@ const App = () => {
 
       {/* HEADER */}
       <div className='flex justify-center text-3xl font-extrabold text-white mb-8 tracking-wider'>
-        <h1>THE BEST MOVIES</h1>
+        <h1>THE BEST MOVIES  Author: Saad khan</h1>
         <p>Author: Saad khan</p>
       </div>
 
