@@ -39,7 +39,7 @@ const App = () => {
       {/* HEADER */}
       <div className='flex justify-center text-3xl font-extrabold text-white mb-8 tracking-wider'>
         <h1>THE BEST MOVIES  </h1>
-        <p>Author: Saad khan</p>
+       
       </div>
 
       {filteredMovies.length === 0 && Movies.length > 0 && (
